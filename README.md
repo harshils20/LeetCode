@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshils20/LeetCode/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshils20/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshils20/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/harshils20/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshils20/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshils20/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshils20/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/harshils20/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harshils20/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshils20/LeetCode/tree/master/0342-power-of-four) |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/harshils20/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshils20/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
